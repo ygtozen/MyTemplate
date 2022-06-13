@@ -1,0 +1,146 @@
+#ust{
+    background-color: #eee9e9;
+    height: 8rem;
+    padding-top: 3rem;
+    color: black;
+    text-decoration: none;
+}
+
+#logo{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+}
+
+#hakkimizda_img{
+    object-fit: scale-down;
+    width: 10rem;
+    height: 10rem
+}
+
+body{
+    font-family: 'Crimson Text', serif;
+}
+
+p{
+    text-align: justify;
+}
+
+
+#registerId{
+    color: #1e90ff;
+}
+
+.registerLabel{
+    color: #1e90ff;
+    font-weight: bold;
+}
+
+#btnClose:hover{
+    background-color: red;
+}
+
+#navbar{
+    background-color: #1e90ff;
+    color: white;
+    z-index: 1;
+}
+
+#navbarSupportedContent{
+    font-weight: bold;
+}
+
+#tec {
+    margin-top:35rem;
+}
+
+#tec .card{
+    box-shadow: 1px 1px 4px 1px rgba(0,0,0,.8);
+}
+
+#main_icon i {
+    font-size: 7rem;
+    color: red;
+}
+
+#main_icon p , #main_icon2 p {
+    color: black;
+    text-align: justify;
+}
+
+#main_icon2 i {
+    font-size: 7rem;
+    color: rgb(115, 107, 230);
+}
+
+#main_icon2 img {
+    width: 10rem;
+    padding-left: 5rem;
+    padding-top: 2%;
+}
+
+header{
+    background-image: url('pictures/header3.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+    padding-top: 5rem;
+    height: 30rem;
+    z-index: -1;
+    opacity: .98;
+}
+
+.line_clamp4 {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding-left: 2rem;
+}
+
+.line_clamp2 {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding-left: 2rem;
+}
+
+.line_clamp3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    text-align: justify;
+    overflow: hidden;
+}
+
+.line_clamp16 {
+    display: -webkit-box;
+    -webkit-line-clamp: 16;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    padding-left: 2rem;
+}
+
+#carouselExampleControls{
+    width: 100%;
+    height: 30rem;
+    object-fit: cover;
+}
+
+.carousel{
+    object-fit: cover;
+    max-height: 30rem;
+    background-size: cover;
+}
+
+.card_img{
+    object-fit: cover;
+    max-height: 11rem;
+}
+
+footer{
+    min-height: 20rem;
+    width:auto;
+    background-color:#242524;
+}
+
