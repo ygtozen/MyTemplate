@@ -82,6 +82,7 @@ p{
 header{
     background-image: url('pictures/header3.jpg');
     background-size: cover;
+    object-fit: cover;
     background-position: 50% 50%;
     padding-top: 5rem;
     height: 30rem;
