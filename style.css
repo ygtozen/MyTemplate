@@ -143,11 +143,11 @@ footer{
     min-height: 20rem;
     width:auto;
     background-color:#242524;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 footer a {
-    color:  rgb(0,105,168);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:  rgb(64, 184, 255);
 }
 
 #ft_btn{
