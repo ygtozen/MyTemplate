@@ -41,7 +41,7 @@ p{
 }
 
 #navbar{
-    background-color: #1e90ff;
+    background-color: rgb(0,105,168);
     color: white;
     z-index: 1;
 }
@@ -144,4 +144,14 @@ footer{
     width:auto;
     background-color:#242524;
 }
+
+footer a {
+    color:  rgb(0,105,168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#ft_btn{
+    background-color: rgb(0,105,168);
+}
+
 
